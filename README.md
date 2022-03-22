@@ -1,5 +1,5 @@
 # Programming Proposal 1
-A description of the project.
+A description of the project. Put Detail
 
 ## GUI Mockup #1 (Start)
 
@@ -10,7 +10,7 @@ A description of the project.
 ## Class Diagram
 
 # Programming Proposal 2
-A description of the project.
+A description of the project. Put Detail
 
 ## GUI Mockup #1 (Start)
 
