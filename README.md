@@ -1,5 +1,5 @@
 # Programming Proposal 1
-A description of the project. Put Detail
+OOP text Based adventure application. 
 
 ## GUI Mockup #1 (Start)
 
